@@ -2,7 +2,7 @@
   *  Compilation:  javac -d bin com/bridgelabz/util/Calender.java
   *  Execution:    java -cp bin com.bridgelabz.util.Calender
   *  
-  *  Purpose: Compound Future
+  *  Purpose: Display calender of the particular month
   *
   *  @author  Saurabh Wakshe
   *  @version 1.8
